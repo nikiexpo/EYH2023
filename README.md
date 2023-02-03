@@ -1,3 +1,6 @@
+
+# Technical Bid EYH2023
+### Nikilesh Ramesh, Albie Gray, Bradley Bell, George Dixon, Jan Fraczek, Dongze Wu
 Problem Overview
 ================
 
@@ -36,15 +39,11 @@ energy pulse delivers kinetic energy, ideally in the opposing direction,
 this decreases the total kinetic energy of the debris which subsequently
 leads to the drop in velocity.
 
-![image](Images/EDen.png){#fig:EYH width="6cm"}
-![image](Images/Thrust.png){#fig:EYH width="6cm"} [\[fig:EYH\]]{#fig:EYH
-label="fig:EYH"}
+
 
 Over multiple interactions, the velocity of the debris is slowed to
 below the critical orbital velocity, thus leading to re-entry.
 
-![image](Images/NominalOrbit.png){#fig:EYH width="6cm"}
-[\[fig:EYH\]]{#fig:EYH label="fig:EYH"}
 
 Technical Challenges
 --------------------
